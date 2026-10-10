@@ -11,3 +11,8 @@ speed = 100;
 
 // Declaration and initialization together
 String greeting = "Hello, World!"; 
+
+
+Types of Variables in Java
+
+Java classifies variables into three primary categories based on where they are declared and how they behave in memory:
